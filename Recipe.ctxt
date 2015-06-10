@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=patient\ drugs
+comment0.target=Recipe(java.lang.String,\ java.util.ArrayList)
+comment0.text=\r\n\ Recipe\ is\ a\ cool\ class,\ is\ the\ recipe\ of\ the\ drugs\ that\ the\ patient\r\n\ need\ for\ make\ you\ better\ and\ restore\ your\ heal,\ the\ personal\ that\ can\r\n\ makes\ new\ recipe\ are\ only\ the\ Nurse.\r\n\ \r\n\ @param\ patient\ \ \ Is\ the\ name\ of\ the\ patient\r\n\ @param\ drugs\ \ \ \ \ Are\ the\ drugs\ for\ the\ patient.\ Auch\!\r\n
+comment1.params=
+comment1.target=void\ print()
+comment1.text=\r\n\ Makes\ a\ print\ of\ the\ recipe\ with\ the\ drugs\ that\ the\r\n\ nurse\ put\ or\ enter\ in\ the\ system\r\n
+comment2.params=
+comment2.target=java.lang.String\ getRecipePatientName()
+comment2.text=\r\n\ What\ is\ the\ name\ of\ the\ patient?,\ This\ method\ say's\ the\ info\r\n\ \r\n\ @return\ Patient\ name\r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Launcher()
+comment1.params=ar
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ for\ create\ a\ new\ Launcher\ class.\r\n\ -\ Note\:\ parameters\ can\ be\ left\ empty.\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ OMG\!\ I\ dont\ know\ what\ makes\ the\ buttons,\r\n\ come\ with\ me,\ let's\ define\ them.\r\n\ This\ buttons\ only\ makes\ a\ new\ instance\ of\ the\ class\ selected.\r\n
+numComments=3
